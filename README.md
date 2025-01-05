@@ -11,7 +11,7 @@
 
 ## 🔭 Projects
 - 🧠 **Emulators**: Creating CPU emulators and a custom kernel.
-- 🐧 **Linux Distributions**: Designing custom Linux editions.
+- 🐧 **Linux Distributions**: Designing custom Linux distributions.
 
 ## 📫 Get in Touch
 - 📧 **Email**: antekborowski11@gmail.com
